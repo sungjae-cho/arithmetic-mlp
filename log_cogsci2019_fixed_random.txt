@@ -1,0 +1,800 @@
+===================================================================
+Run the 1-th training of 4 digit fixed_random
+Run ID: 20190110015642
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015642/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015642/
+└ epoch: 3, step: 32, test_loss: 0.3504076302051544, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 2-th training of 4 digit fixed_random
+Run ID: 20190110015645
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015645/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015645/
+└ epoch: 1, step: 16, test_loss: 0.4541015028953552, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 3-th training of 4 digit fixed_random
+Run ID: 20190110015647
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015647/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015647/
+└ epoch: 3, step: 32, test_loss: 0.3340945839881897, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 4-th training of 4 digit fixed_random
+Run ID: 20190110015650
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015650/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015650/
+└ epoch: 3, step: 32, test_loss: 0.34541523456573486, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 5-th training of 4 digit fixed_random
+Run ID: 20190110015652
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015652/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015652/
+└ epoch: 4, step: 40, test_loss: 0.2993221580982208, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 6-th training of 4 digit fixed_random
+Run ID: 20190110015655
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015655/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015655/
+└ epoch: 2, step: 24, test_loss: 0.3945217728614807, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 7-th training of 4 digit fixed_random
+Run ID: 20190110015657
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015657/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015657/
+└ epoch: 3, step: 32, test_loss: 0.32060760259628296, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 8-th training of 4 digit fixed_random
+Run ID: 20190110015700
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015700/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015700/
+└ epoch: 2, step: 24, test_loss: 0.44937148690223694, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 9-th training of 4 digit fixed_random
+Run ID: 20190110015702
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015702/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015702/
+└ epoch: 2, step: 24, test_loss: 0.3575967252254486, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 10-th training of 4 digit fixed_random
+Run ID: 20190110015705
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015705/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015705/
+└ epoch: 5, step: 48, test_loss: 0.2998684048652649, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 11-th training of 4 digit fixed_random
+Run ID: 20190110015707
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015707/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015707/
+└ epoch: 3, step: 32, test_loss: 0.36790376901626587, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 12-th training of 4 digit fixed_random
+Run ID: 20190110015710
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015710/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015710/
+└ epoch: 5, step: 48, test_loss: 0.2812093496322632, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 13-th training of 4 digit fixed_random
+Run ID: 20190110015713
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015713/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015713/
+└ epoch: 4, step: 40, test_loss: 0.22403615713119507, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 14-th training of 4 digit fixed_random
+Run ID: 20190110015715
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015715/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015715/
+└ epoch: 3, step: 32, test_loss: 0.2906624674797058, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 15-th training of 4 digit fixed_random
+Run ID: 20190110015718
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015718/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015718/
+└ epoch: 3, step: 32, test_loss: 0.3084350824356079, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 16-th training of 4 digit fixed_random
+Run ID: 20190110015720
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015720/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015720/
+└ epoch: 2, step: 24, test_loss: 0.40666648745536804, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 17-th training of 4 digit fixed_random
+Run ID: 20190110015723
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015723/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015723/
+└ epoch: 3, step: 32, test_loss: 0.33886709809303284, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 18-th training of 4 digit fixed_random
+Run ID: 20190110015725
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015725/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015725/
+└ epoch: 3, step: 32, test_loss: 0.33035188913345337, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 19-th training of 4 digit fixed_random
+Run ID: 20190110015728
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015728/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015728/
+└ epoch: 2, step: 24, test_loss: 0.35328060388565063, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 20-th training of 4 digit fixed_random
+Run ID: 20190110015730
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015730/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015730/
+└ epoch: 1, step: 16, test_loss: 0.4253746569156647, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 21-th training of 4 digit fixed_random
+Run ID: 20190110015733
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015733/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015733/
+└ epoch: 3, step: 32, test_loss: 0.34674128890037537, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 22-th training of 4 digit fixed_random
+Run ID: 20190110015735
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015735/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015735/
+└ epoch: 2, step: 24, test_loss: 0.3633657991886139, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 23-th training of 4 digit fixed_random
+Run ID: 20190110015738
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015738/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015738/
+└ epoch: 5, step: 48, test_loss: 0.2436629980802536, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 24-th training of 4 digit fixed_random
+Run ID: 20190110015740
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015740/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015740/
+└ epoch: 2, step: 24, test_loss: 0.35069704055786133, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 25-th training of 4 digit fixed_random
+Run ID: 20190110015743
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015743/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015743/
+└ epoch: 2, step: 24, test_loss: 0.34557491540908813, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 26-th training of 4 digit fixed_random
+Run ID: 20190110015745
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015745/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015745/
+└ epoch: 3, step: 32, test_loss: 0.3864666521549225, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 27-th training of 4 digit fixed_random
+Run ID: 20190110015748
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015748/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015748/
+└ epoch: 3, step: 32, test_loss: 0.3581923246383667, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 28-th training of 4 digit fixed_random
+Run ID: 20190110015750
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015750/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015750/
+└ epoch: 2, step: 24, test_loss: 0.43010246753692627, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 29-th training of 4 digit fixed_random
+Run ID: 20190110015753
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015753/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015753/
+└ epoch: 1, step: 16, test_loss: 0.3710668683052063, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 30-th training of 4 digit fixed_random
+Run ID: 20190110015755
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015755/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015755/
+└ epoch: 5, step: 48, test_loss: 0.20712652802467346, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 31-th training of 4 digit fixed_random
+Run ID: 20190110015758
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015758/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015758/
+└ epoch: 3, step: 32, test_loss: 0.3151266276836395, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 32-th training of 4 digit fixed_random
+Run ID: 20190110015800
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015800/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015800/
+└ epoch: 3, step: 32, test_loss: 0.3395301401615143, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 33-th training of 4 digit fixed_random
+Run ID: 20190110015803
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015803/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015803/
+└ epoch: 3, step: 32, test_loss: 0.2735585570335388, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 34-th training of 4 digit fixed_random
+Run ID: 20190110015805
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015805/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015805/
+└ epoch: 3, step: 32, test_loss: 0.3196544945240021, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 35-th training of 4 digit fixed_random
+Run ID: 20190110015808
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015808/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015808/
+└ epoch: 3, step: 32, test_loss: 0.3945048451423645, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 36-th training of 4 digit fixed_random
+Run ID: 20190110015810
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015810/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015810/
+└ epoch: 1, step: 16, test_loss: 0.3707549273967743, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 37-th training of 4 digit fixed_random
+Run ID: 20190110015813
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015813/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015813/
+└ epoch: 3, step: 32, test_loss: 0.39131903648376465, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 38-th training of 4 digit fixed_random
+Run ID: 20190110015815
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015815/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015815/
+└ epoch: 2, step: 24, test_loss: 0.31181252002716064, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 39-th training of 4 digit fixed_random
+Run ID: 20190110015818
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015818/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015818/
+└ epoch: 3, step: 32, test_loss: 0.37979400157928467, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 40-th training of 4 digit fixed_random
+Run ID: 20190110015820
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015820/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015820/
+└ epoch: 3, step: 32, test_loss: 0.33259493112564087, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 41-th training of 4 digit fixed_random
+Run ID: 20190110015823
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015823/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015823/
+└ epoch: 3, step: 32, test_loss: 0.3739716112613678, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 42-th training of 4 digit fixed_random
+Run ID: 20190110015825
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015825/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015825/
+└ epoch: 4, step: 40, test_loss: 0.2780928313732147, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 43-th training of 4 digit fixed_random
+Run ID: 20190110015828
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015828/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015828/
+└ epoch: 2, step: 24, test_loss: 0.37553614377975464, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 44-th training of 4 digit fixed_random
+Run ID: 20190110015830
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015830/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015830/
+└ epoch: 3, step: 32, test_loss: 0.3120858371257782, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 45-th training of 4 digit fixed_random
+Run ID: 20190110015832
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015832/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015832/
+└ epoch: 3, step: 32, test_loss: 0.3814809024333954, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 46-th training of 4 digit fixed_random
+Run ID: 20190110015835
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015835/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015835/
+└ epoch: 2, step: 24, test_loss: 0.388010710477829, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 47-th training of 4 digit fixed_random
+Run ID: 20190110015837
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015837/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015837/
+└ epoch: 2, step: 24, test_loss: 0.3572345972061157, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 48-th training of 4 digit fixed_random
+Run ID: 20190110015839
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015839/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015839/
+└ epoch: 3, step: 32, test_loss: 0.3126598298549652, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 49-th training of 4 digit fixed_random
+Run ID: 20190110015841
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015841/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015841/
+└ epoch: 4, step: 40, test_loss: 0.24012750387191772, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 50-th training of 4 digit fixed_random
+Run ID: 20190110015843
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015843/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015843/
+└ epoch: 5, step: 48, test_loss: 0.28382739424705505, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 51-th training of 4 digit fixed_random
+Run ID: 20190110015845
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015845/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015845/
+└ epoch: 3, step: 32, test_loss: 0.35465338826179504, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 52-th training of 4 digit fixed_random
+Run ID: 20190110015847
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015847/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015847/
+└ epoch: 4, step: 40, test_loss: 0.3141777515411377, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 53-th training of 4 digit fixed_random
+Run ID: 20190110015850
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015850/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015850/
+└ epoch: 3, step: 32, test_loss: 0.3388294279575348, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 54-th training of 4 digit fixed_random
+Run ID: 20190110015852
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015852/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015852/
+└ epoch: 4, step: 40, test_loss: 0.24796518683433533, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 55-th training of 4 digit fixed_random
+Run ID: 20190110015854
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015854/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015854/
+└ epoch: 5, step: 48, test_loss: 0.24852797389030457, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 56-th training of 4 digit fixed_random
+Run ID: 20190110015856
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015856/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015856/
+└ epoch: 2, step: 24, test_loss: 0.38582301139831543, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 57-th training of 4 digit fixed_random
+Run ID: 20190110015858
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015858/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015858/
+└ epoch: 2, step: 24, test_loss: 0.3105669617652893, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 58-th training of 4 digit fixed_random
+Run ID: 20190110015900
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015900/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015900/
+└ epoch: 4, step: 40, test_loss: 0.28125783801078796, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 59-th training of 4 digit fixed_random
+Run ID: 20190110015902
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015902/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015902/
+└ epoch: 0, step: 8, test_loss: 0.49257558584213257, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 60-th training of 4 digit fixed_random
+Run ID: 20190110015904
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015904/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015904/
+└ epoch: 3, step: 32, test_loss: 0.30493026971817017, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 61-th training of 4 digit fixed_random
+Run ID: 20190110015907
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015907/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015907/
+└ epoch: 3, step: 32, test_loss: 0.32437384128570557, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 62-th training of 4 digit fixed_random
+Run ID: 20190110015909
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015909/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015909/
+└ epoch: 3, step: 32, test_loss: 0.33463892340660095, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 63-th training of 4 digit fixed_random
+Run ID: 20190110015911
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015911/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015911/
+└ epoch: 1, step: 16, test_loss: 0.4287818372249603, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 64-th training of 4 digit fixed_random
+Run ID: 20190110015913
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015913/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015913/
+└ epoch: 1, step: 16, test_loss: 0.45309755206108093, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 65-th training of 4 digit fixed_random
+Run ID: 20190110015915
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015915/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015915/
+└ epoch: 2, step: 24, test_loss: 0.39653828740119934, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 66-th training of 4 digit fixed_random
+Run ID: 20190110015917
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015917/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015917/
+└ epoch: 2, step: 24, test_loss: 0.4004432260990143, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 67-th training of 4 digit fixed_random
+Run ID: 20190110015919
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015919/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015919/
+└ epoch: 2, step: 24, test_loss: 0.37095406651496887, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 68-th training of 4 digit fixed_random
+Run ID: 20190110015921
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015921/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015921/
+└ epoch: 2, step: 24, test_loss: 0.30378586053848267, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 69-th training of 4 digit fixed_random
+Run ID: 20190110015923
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015923/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015923/
+└ epoch: 2, step: 24, test_loss: 0.3621690273284912, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 70-th training of 4 digit fixed_random
+Run ID: 20190110015925
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015925/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015925/
+└ epoch: 1, step: 16, test_loss: 0.3661597967147827, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 71-th training of 4 digit fixed_random
+Run ID: 20190110015927
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015927/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015927/
+└ epoch: 3, step: 32, test_loss: 0.3901952803134918, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 72-th training of 4 digit fixed_random
+Run ID: 20190110015929
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015929/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015929/
+└ epoch: 4, step: 40, test_loss: 0.3604431748390198, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 73-th training of 4 digit fixed_random
+Run ID: 20190110015932
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015932/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015932/
+└ epoch: 4, step: 40, test_loss: 0.266460120677948, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 74-th training of 4 digit fixed_random
+Run ID: 20190110015934
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015934/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015934/
+└ epoch: 3, step: 32, test_loss: 0.3315645158290863, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 75-th training of 4 digit fixed_random
+Run ID: 20190110015936
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015936/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015936/
+└ epoch: 3, step: 32, test_loss: 0.3198728561401367, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 76-th training of 4 digit fixed_random
+Run ID: 20190110015938
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015938/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015938/
+└ epoch: 2, step: 24, test_loss: 0.4107059836387634, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 77-th training of 4 digit fixed_random
+Run ID: 20190110015940
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015940/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015940/
+└ epoch: 2, step: 24, test_loss: 0.39929017424583435, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 78-th training of 4 digit fixed_random
+Run ID: 20190110015942
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015942/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015942/
+└ epoch: 2, step: 24, test_loss: 0.3488469123840332, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 79-th training of 4 digit fixed_random
+Run ID: 20190110015944
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015944/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015944/
+└ epoch: 3, step: 32, test_loss: 0.31613510847091675, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 80-th training of 4 digit fixed_random
+Run ID: 20190110015946
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015946/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015946/
+└ epoch: 3, step: 32, test_loss: 0.36575859785079956, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 81-th training of 4 digit fixed_random
+Run ID: 20190110015948
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015948/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015948/
+└ epoch: 2, step: 24, test_loss: 0.41588184237480164, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 82-th training of 4 digit fixed_random
+Run ID: 20190110015951
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015951/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015951/
+└ epoch: 1, step: 16, test_loss: 0.4326082170009613, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 83-th training of 4 digit fixed_random
+Run ID: 20190110015953
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015953/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015953/
+└ epoch: 2, step: 24, test_loss: 0.39604002237319946, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 84-th training of 4 digit fixed_random
+Run ID: 20190110015955
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015955/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015955/
+└ epoch: 3, step: 32, test_loss: 0.35324421525001526, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 85-th training of 4 digit fixed_random
+Run ID: 20190110015957
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015957/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015957/
+└ epoch: 4, step: 40, test_loss: 0.27998244762420654, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 86-th training of 4 digit fixed_random
+Run ID: 20190110015959
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110015959/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110015959/
+└ epoch: 3, step: 32, test_loss: 0.2834073305130005, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 87-th training of 4 digit fixed_random
+Run ID: 20190110020001
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020001/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020001/
+└ epoch: 2, step: 24, test_loss: 0.40258270502090454, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 88-th training of 4 digit fixed_random
+Run ID: 20190110020003
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020003/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020003/
+└ epoch: 3, step: 32, test_loss: 0.3737027943134308, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 89-th training of 4 digit fixed_random
+Run ID: 20190110020005
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020005/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020005/
+└ epoch: 1, step: 16, test_loss: 0.3802817761898041, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 90-th training of 4 digit fixed_random
+Run ID: 20190110020007
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020007/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020007/
+└ epoch: 3, step: 32, test_loss: 0.34753313660621643, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 91-th training of 4 digit fixed_random
+Run ID: 20190110020009
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020009/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020009/
+└ epoch: 2, step: 24, test_loss: 0.38809606432914734, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 92-th training of 4 digit fixed_random
+Run ID: 20190110020011
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020011/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020011/
+└ epoch: 2, step: 24, test_loss: 0.43504536151885986, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 93-th training of 4 digit fixed_random
+Run ID: 20190110020013
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020013/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020013/
+└ epoch: 3, step: 32, test_loss: 0.288143128156662, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 94-th training of 4 digit fixed_random
+Run ID: 20190110020015
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020015/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020015/
+└ epoch: 3, step: 32, test_loss: 0.33513879776000977, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 95-th training of 4 digit fixed_random
+Run ID: 20190110020017
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020017/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020017/
+└ epoch: 3, step: 32, test_loss: 0.3441774547100067, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 96-th training of 4 digit fixed_random
+Run ID: 20190110020019
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020019/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020019/
+└ epoch: 3, step: 32, test_loss: 0.33231791853904724, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 97-th training of 4 digit fixed_random
+Run ID: 20190110020021
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020021/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020021/
+└ epoch: 1, step: 16, test_loss: 0.447063684463501, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 98-th training of 4 digit fixed_random
+Run ID: 20190110020023
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020023/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020023/
+└ epoch: 3, step: 32, test_loss: 0.31483107805252075, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 99-th training of 4 digit fixed_random
+Run ID: 20190110020025
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020025/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020025/
+└ epoch: 4, step: 40, test_loss: 0.2684476971626282, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.
+===================================================================
+Run the 100-th training of 4 digit fixed_random
+Run ID: 20190110020027
+tb_logs/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]_run-20190110020027/
+saved_models/cogsci2019/fixed_random_4bit_mlp_sigmoid_h[64]/run-20190110020027/
+└ epoch: 3, step: 32, test_loss: 0.2796487510204315, test_accuracy: 1.0, op_wrong: 0
+Model saved.
+The training is over.

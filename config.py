@@ -48,7 +48,7 @@ def learning_rate():
     return 0.001
 
 def all_correct_stop():
-    return False
+    return True
 
 def big_batch_saturation():
     return False
@@ -60,17 +60,17 @@ def decreasing_dev_summary_period():
     return False
 
 def l1_coef():
-    return 0.01
+    return 0
 
 def l2_coef():
-    return 0.001
+    return 0
 
 def dataset_ratio():
     (train_ratio, dev_ratio, test_ratio) = (1.0, 0.0, 0.0)
     return train_ratio, dev_ratio, test_ratio
 
 def tlu_on():
-    return True
+    return False
 
 '''operators_list = ['add', 'subtract', 'multiply', 'divide', 'modulo']
 operand_digits_list = [4, 6, 8]

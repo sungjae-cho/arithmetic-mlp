@@ -485,8 +485,8 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                                             dev_run_outputs, dev_tlu_run_outputs)
 
                     # Write the logs of measures################################
-                    utils.write_measures(run_info, float_epoch,
-                                            dev_run_outputs, dev_tlu_run_outputs)
+                    #utils.write_measures(run_info, float_epoch,
+                    #                        dev_run_outputs, dev_tlu_run_outputs)
 
 
                     if is_last_batch(i_batch):

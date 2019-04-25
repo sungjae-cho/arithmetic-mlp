@@ -44,7 +44,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                        all_correct:all_correct_val})
 
         ##print("epoch: {}, step: {}, train_loss: {}, train_accuracy: {}".format(epoch, step, train_loss, train_accuracy))
-        train_summary_writer.add_summary(merged_summary_op_val, step)
+        #train_summary_writer.add_summary(merged_summary_op_val, step)
 
         return (train_loss, train_accuracy)
 
@@ -60,7 +60,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                        all_correct:all_correct_val})
 
         ##print("└ epoch: {}, step: {}, dev_loss: {}, dev_accuracy: {}, op_wrong: {}".format(epoch, step, dev_loss, dev_accuracy, op_wrong_val))
-        dev_summary_writer.add_summary(merged_summary_op_val, step)
+        #dev_summary_writer.add_summary(merged_summary_op_val, step)
 
         return (dev_loss, dev_accuracy, dev_op_wrong_val, per_digit_accuracy_val, per_digit_wrong_val)
 
@@ -75,7 +75,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                        all_correct:all_correct_val})
 
         ##print("└ [TLU] epoch: {}, step: {}, dev_loss: {}, dev_accuracy: {}, op_wrong: {}".format(epoch, step, dev_loss_tlu, dev_accuracy_tlu, op_wrong_val_tlu))
-        tlu_summary_writer.add_summary(merged_summary_op_val, step)
+        #tlu_summary_writer.add_summary(merged_summary_op_val, step)
 
         return (dev_loss_tlu, dev_accuracy_tlu, dev_op_wrong_val_tlu)
 
@@ -89,7 +89,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                        all_correct_epoch:(all_correct_val * float_epoch),
                        all_correct:all_correct_val})
         print("└ epoch: {}, step: {}, test_loss: {}, test_accuracy: {}, op_wrong: {}".format(epoch, step, test_loss, test_accuracy, op_wrong_val))
-        test_summary_writer.add_summary(merged_summary_op_val, step)
+        #test_summary_writer.add_summary(merged_summary_op_val, step)
 
         return (test_loss, test_accuracy, op_wrong_val)
 

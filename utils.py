@@ -323,6 +323,8 @@ def write_run_info(run_info, float_epoch,
         with open('{}/{}/run-{}.pickle'.format(config.dir_run_info_experiments(), experiment_name, run_id), 'wb') as f:
             pickle.dump(run_info, f)
 
+    return run_info
+
 
 def write_measures(run_info, float_epoch,
                    dev_run_outputs, dev_tlu_run_outputs, final=False):
@@ -378,6 +380,8 @@ def write_measures(run_info, float_epoch,
         # Write the appended measure_logs
         with open(pickle_path, 'wb') as f:
             pickle.dump(measure_logs, f)
+
+    return measure_logs
 
 
 def read_measure_logs(experiment_name, run_id):

@@ -478,10 +478,10 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
 
                     # Write running information################################
                     if operator in config.operators_list():
-                        utils.write_run_info(run_info, float_epoch,
+                        run_info = utils.write_run_info(run_info, float_epoch,
                                             dev_run_outputs, dev_tlu_run_outputs, carry_run_outputs)
                     else:
-                        utils.write_run_info(run_info, float_epoch,
+                        run_info = utils.write_run_info(run_info, float_epoch,
                                             dev_run_outputs, dev_tlu_run_outputs)
 
                     # Write the logs of measures################################
@@ -526,6 +526,14 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
 
         model_saver.save(sess, '{}/{}.ckpt'.format(dir_saved_model, run_id))
         print("Model saved.")
+
+    # Write running information################################
+    if operator in config.operators_list():
+        run_info = utils.write_run_info(run_info, float_epoch,
+                            dev_run_outputs, dev_tlu_run_outputs, carry_run_outputs)
+    else:
+        run_info = utils.write_run_info(run_info, float_epoch,
+                            dev_run_outputs, dev_tlu_run_outputs)
 
     train_summary_writer.close()
     dev_summary_writer.close()

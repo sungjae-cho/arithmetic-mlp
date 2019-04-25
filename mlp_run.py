@@ -109,7 +109,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                            all_correct:all_correct_val})
 
             value_dict[n_carries] = (carry_loss_val, carry_accuracy_val, carry_op_wrong_val, carry_per_digit_accuracy_val, carry_per_digit_wrong_val)
-            carry_datasets_summary_writers[n_carries].add_summary(merged_summary_op_val, step)
+            #carry_datasets_summary_writers[n_carries].add_summary(merged_summary_op_val, step)
 
         return value_dict
 

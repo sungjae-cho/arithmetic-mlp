@@ -244,7 +244,8 @@ def init_run_info(NN_OUTPUT_DIM):
 
 
 def write_run_info(run_info, float_epoch,
-                   dev_run_outputs, dev_tlu_run_outputs, carry_run_outputs=None):
+                   dev_run_outputs, dev_tlu_run_outputs, carry_run_outputs=None,
+                   final=False):
 
     (dev_loss_val, dev_accuracy_val, dev_op_wrong_val,
      per_digit_accuracy_val, per_digit_wrong_val) = dev_run_outputs
@@ -316,14 +317,15 @@ def write_run_info(run_info, float_epoch,
             if carry_op_wrong_val != 0 and run_info[init_complete_all_correct_key] != -1:
                 run_info[init_complete_all_correct_key] = -1
 
-    # Save run_info
-    create_dir('{}/{}'.format(config.dir_run_info_experiments(), experiment_name))
-    with open('{}/{}/run-{}.pickle'.format(config.dir_run_info_experiments(), experiment_name, run_id), 'wb') as f:
-        pickle.dump(run_info, f)
+    if final:
+        # Save run_info
+        create_dir('{}/{}'.format(config.dir_run_info_experiments(), experiment_name))
+        with open('{}/{}/run-{}.pickle'.format(config.dir_run_info_experiments(), experiment_name, run_id), 'wb') as f:
+            pickle.dump(run_info, f)
 
 
 def write_measures(run_info, float_epoch,
-                   dev_run_outputs, dev_tlu_run_outputs):
+                   dev_run_outputs, dev_tlu_run_outputs, final=False):
 
     (dev_loss_val, dev_accuracy_val, dev_op_wrong_val,
      per_digit_accuracy_val, per_digit_wrong_val) = dev_run_outputs
@@ -372,9 +374,10 @@ def write_measures(run_info, float_epoch,
         measure_logs['digit-{}_accuracy'.format(i+1)].append(per_digit_accuracy_val[-(i+1)])
         measure_logs['digit-{}_op_wrong'.format(i+1)].append(per_digit_wrong_val[-(i+1)])
 
-    # Write the appended measure_logs
-    with open(pickle_path, 'wb') as f:
-        pickle.dump(measure_logs, f)
+    if final:
+        # Write the appended measure_logs
+        with open(pickle_path, 'wb') as f:
+            pickle.dump(measure_logs, f)
 
 
 def read_measure_logs(experiment_name, run_id):

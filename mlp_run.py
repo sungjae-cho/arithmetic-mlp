@@ -507,7 +507,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                         model_name = 'epoch{}-batch{}'.format(float_epoch, i_batch)
                         init_all_correct_model_saver.save(sess, '{}/{}-init-all-correct.ckpt'.format(
                             dir_saved_model, model_name))
-                        write_embeddings_summary(sess, h1)
+                        #write_embeddings_summary(sess, h1)
                         init_all_correct_model_saved = True
 
                     if all_correct_val and all_correct_stop:

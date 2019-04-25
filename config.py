@@ -54,7 +54,7 @@ def big_batch_saturation():
     return False
 
 def activation():
-    return tf.nn.tanh # tf.nn.sigmoid, tf.nn.tanh, tf.nn.relu
+    return tf.nn.sigmoid # tf.nn.sigmoid, tf.nn.tanh, tf.nn.relu
 
 def decreasing_dev_summary_period():
     return False

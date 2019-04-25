@@ -530,10 +530,10 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
     # Write running information################################
     if operator in config.operators_list():
         run_info = utils.write_run_info(run_info, float_epoch,
-                            dev_run_outputs, dev_tlu_run_outputs, carry_run_outputs)
+                            dev_run_outputs, dev_tlu_run_outputs, carry_run_outputs, final=True)
     else:
         run_info = utils.write_run_info(run_info, float_epoch,
-                            dev_run_outputs, dev_tlu_run_outputs)
+                            dev_run_outputs, dev_tlu_run_outputs, final=True)
 
     train_summary_writer.close()
     dev_summary_writer.close()

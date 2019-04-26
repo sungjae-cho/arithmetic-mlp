@@ -387,21 +387,21 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
     logdir = '{}/{}/{}_{}bit_{}_{}_h{}_run-{}/'.format(
         config.dir_logs(), experiment_name, operator, operand_bits, nn_model_type, str_activation, h_layer_dims, run_id)
 
-    train_summary_writer = tf.summary.FileWriter(logdir + '/train', graph=tf.get_default_graph())
-    dev_summary_writer = tf.summary.FileWriter(logdir + '/dev')
-    if tlu_on:
-        tlu_summary_writer = tf.summary.FileWriter(logdir + '/tlu')
-    test_summary_writer = tf.summary.FileWriter(logdir + '/test')
-    if operator in config.operators_list():
-        carry_datasets_summary_writers = create_carry_datasets_summary_writers(logdir, carry_datasets)
+    #train_summary_writer = tf.summary.FileWriter(logdir + '/train', graph=tf.get_default_graph())
+    #dev_summary_writer = tf.summary.FileWriter(logdir + '/dev')
+    #if tlu_on:
+    #    tlu_summary_writer = tf.summary.FileWriter(logdir + '/tlu')
+    #test_summary_writer = tf.summary.FileWriter(logdir + '/test')
+    #if operator in config.operators_list():
+    #    carry_datasets_summary_writers = create_carry_datasets_summary_writers(logdir, carry_datasets)
 
     # Model saving
-    dir_saved_model = '{}/{}/{}_{}bit_{}_{}_h{}/run-{}/'.format(
-        config.dir_saved_models(), experiment_name, operator, operand_bits, nn_model_type, str_activation, h_layer_dims, run_id)
-    utils.create_dir(dir_saved_model)
+    #dir_saved_model = '{}/{}/{}_{}bit_{}_{}_h{}/run-{}/'.format(
+    #    config.dir_saved_models(), experiment_name, operator, operand_bits, nn_model_type, str_activation, h_layer_dims, run_id)
+    #utils.create_dir(dir_saved_model)
 
-    model_saver = tf.train.Saver()
-    init_all_correct_model_saver = tf.train.Saver()
+    #model_saver = tf.train.Saver()
+    #init_all_correct_model_saver = tf.train.Saver()
 
     # Compute nodes
     train_compute_nodes = [loss, op_accuracy, merged_summary_op]
@@ -414,7 +414,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
 
     print("Run ID: {}".format(run_id))
     print(logdir)
-    print(dir_saved_model)
+    #print(dir_saved_model)
 
     with tf.Session(config=tf_config) as sess:
         sess.run(init)
@@ -489,10 +489,10 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                     #                        dev_run_outputs, dev_tlu_run_outputs)
 
 
-                    if is_last_batch(i_batch):
+                    #if is_last_batch(i_batch):
                         # After one epoch is trained
                         # Save the trained model ################################################
-                        model_saver.save(sess, '{}/dev-{}.ckpt'.format(dir_saved_model, run_id))
+                        #model_saver.save(sess, '{}/dev-{}.ckpt'.format(dir_saved_model, run_id))
                         ##print("Model saved.")
                         # decrease_dev_summary_period
 
@@ -505,8 +505,8 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
                     if all_correct_val and (not init_all_correct_model_saved):
                         # Save the model.
                         model_name = 'epoch{}-batch{}'.format(float_epoch, i_batch)
-                        init_all_correct_model_saver.save(sess, '{}/{}-init-all-correct.ckpt'.format(
-                            dir_saved_model, model_name))
+                        #init_all_correct_model_saver.save(sess, '{}/{}-init-all-correct.ckpt'.format(
+                        #    dir_saved_model, model_name))
                         #write_embeddings_summary(sess, h1)
                         init_all_correct_model_saved = True
 
@@ -524,7 +524,7 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
         # test set summary writer#############################################################
         (test_loss, test_accuracy, test_op_wrong_val) = write_test_summary(sess, test_compute_nodes, float_epoch, all_correct_val, step)
 
-        model_saver.save(sess, '{}/{}.ckpt'.format(dir_saved_model, run_id))
+        #model_saver.save(sess, '{}/{}.ckpt'.format(dir_saved_model, run_id))
         print("Model saved.")
 
     # Write running information################################
@@ -535,13 +535,13 @@ def mlp_run(experiment_name, operand_bits, operator, hidden_units, str_device_nu
         run_info = utils.write_run_info(run_info, float_epoch,
                             dev_run_outputs, dev_tlu_run_outputs, final=True)
 
-    train_summary_writer.close()
-    dev_summary_writer.close()
-    if tlu_on:
-        tlu_summary_writer.close()
-    test_summary_writer.close()
-    if operator in config.operators_list():
-        close_carry_datasets_summary_writers(carry_datasets_summary_writers)
+    #train_summary_writer.close()
+    #dev_summary_writer.close()
+    #if tlu_on:
+    #    tlu_summary_writer.close()
+    #test_summary_writer.close()
+    #if operator in config.operators_list():
+    #    close_carry_datasets_summary_writers(carry_datasets_summary_writers)
 
     print("The training is over.")
 

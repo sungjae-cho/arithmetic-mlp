@@ -18,31 +18,31 @@ experiment()
   device_num=$1
 
   operator='add'
-  for i in {1..15..1}
+  for i in {1..7..1}
     do
       python3 mlp_run.py $experiment_name $operand_digits $operator $hidden_units $device_num
     done
 
   operator='subtract'
-  for i in {1..15..1}
+  for i in {1..7..1}
     do
       python3 mlp_run.py $experiment_name $operand_digits $operator $hidden_units $device_num
     done
 
   operator='divide'
-  for i in {1..15..1}
+  for i in {1..7..1}
     do
       python3 mlp_run.py $experiment_name $operand_digits $operator $hidden_units $device_num
     done
 
   operator='modulo'
-  for i in {1..15..1}
+  for i in {1..7..1}
     do
       python3 mlp_run.py $experiment_name $operand_digits $operator $hidden_units $device_num
     done
 
   operator='multiply'
-  for i in {1..15..1}
+  for i in {1..7..1}
     do
       python3 mlp_run.py $experiment_name $operand_digits $operator $hidden_units $device_num
     done
